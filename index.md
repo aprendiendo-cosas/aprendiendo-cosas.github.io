@@ -1,4 +1,4 @@
-## a ver qué pasa si cambio esto
+## Repositorio de docencia de Curro Bonet García
 prueba probosa
 
 You can use the [editor on GitHub](https://github.com/aprendiendo-cosas/aprendiendo-cosas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
