@@ -9,7 +9,7 @@
 > + _Por qué_: Creo que es más divertido ser transparente, también en la docencia
 > + _Para quién_: Para estudiantes, compañeros y para mí :)
 > + *Cómo*: Todo lo que ves aquí se basa en [Github](https://github.com/) y en los conceptos de reproducibilidad y trazabilidad. Esta herramienta me permite saber cómo cambia mi docencia con el tiempo.
-> + *Si te has quedado con ganas de leer más*: En breve escribiré sobre esto en mi blog. Mientras tanto puedes ver [este](https://www.youtube.com/watch?v=1plRdolo4Ys&t=7s) vídeo que explica un poco las tripas de la idea. 
+> + *Si te has quedado con ganas de leer más*: En breve escribiré sobre esto en mi blog. Mientras tanto puedes ver [este](https://www.youtube.com/watch?v=1plRdolo4Ys) vídeo que explica un poco las tripas de la idea. 
 
 
 
