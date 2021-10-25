@@ -1,5 +1,5 @@
 # Repositorio de docencia
-**_Autor_**: Curro Bonet-García (fjbonet@uco.es, [@fjbonet](https://twitter.com/fjbonet))
+**_Autor_**: Curro Bonet-García ([fjbonet@uco.es](mailto:fjbonet@uco.es), [Twitter](https://twitter.com/fjbonet), [Telegram](t.me/fjbonet))
 
 
 
