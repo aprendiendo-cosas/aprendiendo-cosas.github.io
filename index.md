@@ -19,8 +19,8 @@
 Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual paracaidista gracias a una carambola cósmica. Quedé segundo en un concurso, pero el ganador tenía un plan mejor y me dejó entrar. Este hecho, entre otros, hacen que mi emoción principal hacia la UCO sea la **gratitud** (así, resaltado). Actualmente (desde febrero de 2021) soy profesor contratado doctor en el [Departamento de botánica, fisiología vegetal y ecología](http://www.uco.es/organiza/departamentos/botanica/es/). Concretamente en el área de ecología. Allí trabajo con unos compañeros estupendos de los que aprendo cada día. En esta institución imparto docencia en los siguientes grados y másters (ojo, aún no he subido todo el material. Solo está disponible el de ecología para ambientales):
 
 + Grado de biología. Hasta ahora mi implicación docente en este grado es reducida. Solo he impartido algunas prácticas en las siguientes asignaturas.
-  + Ecología I: Se imparte en el primer cuatrimestre de tercer curso. 
-  + Ecología II: Se imparte en el segundo cuatrimestre de tercer curso. 
+  + [Ecología I](https://aprendiendo-cosas.github.io/eco_I_bio_UCO/eco_I_uco.html): Se imparte en el primer cuatrimestre de tercer curso. 
+  + [Ecología II](https://aprendiendo-cosas.github.io/eco_II_bio_UCO/eco_II_uco.html): Se imparte en el segundo cuatrimestre de tercer curso. 
   + Ecología aplicada: Es una optativa del cuarto curso de biología. 
 + Grado de ciencias ambientales. La mayor parte de mi docencia está centrada en esta titulación.
   + [Ecología](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/ecologia_ccaa_uco.html): Se imparte en el segundo cuatrimestre del segundo curso.
