@@ -16,7 +16,7 @@
 
 
 ## Universidad de Córdoba 
-Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual paracaidista gracias a una carambola cósmica. Quedé segundo en un concurso, pero el ganador tenía un plan mejor y me dejó entrar. Este hecho, entre otros, hacen que mi emoción principal hacia la UCO sea la **gratitud** (así, resaltado). Actualmente (desde febrero de 2021) soy profesor contratado doctor en el [Departamento de botánica, fisiología vegetal y ecología](http://www.uco.es/organiza/departamentos/botanica/es/). Concretamente en el área de ecología. Allí trabajo con unos compañeros estupendos de los que aprendo cada día. En esta institución imparto docencia en los siguientes grados y másters (ojo, aún no he subido todo el material. Solo está disponible el de ecología para ambientales):
+Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual paracaidista gracias a la generosidad de un compañero. Quedé segundo en un concurso, pero el ganador tenía decidió no aceptar el contrato. Creo que no lo hizo por mí, pero me vino de perlas. Este hecho, entre otros, hacen que mi emoción principal hacia la UCO sea la gratitud. Desde febrero de 2021 soy profesor contratado doctor en el [Departamento de botánica, fisiología vegetal y ecología](http://www.uco.es/organiza/departamentos/botanica/es/). Concretamente en el área de ecología. Allí trabajo con unos compañeros estupendos de los que aprendo cada día. En esta institución imparto docencia en los siguientes grados y másters (todavía falta material por subir):
 
 + Grado de biología. Hasta ahora mi implicación docente en este grado es reducida. Solo he impartido algunas prácticas en las siguientes asignaturas.
   + [Ecología I](https://aprendiendo-cosas.github.io/eco_I_bio_uco/eco_I_uco.html): Se imparte en el primer cuatrimestre de tercer curso. 
@@ -30,7 +30,8 @@ Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual paracaidista graci
 
 
 ## Universidad de Granada
-Estudié en esta universidad y trabajé en ella desde 2006 hasta 2018. Aquí se forjó mi perfil profesional, sea el que sea... Trabajé en el [Observatorio de cambio global de Sierra Nevada](https://obsnev.es/) y formé parte de [Iecolab](http://www.iecolab.es/). [Aquí](https://fjbonet.blogspot.com/2019/11/cambio-de-pantalla.html) hay algún detalle más. Reconozco que aún me cuesta ver esta etapa con desapego. Estoy en ello ;)
+Estudié en esta universidad y trabajé en ella desde 2006 hasta 2018. Aquí se forjó mi perfil profesional (aunque no sepa definirlo muy bien...). Trabajé en el [Observatorio de cambio global de Sierra Nevada](https://obsnev.es/) y formé parte de [Iecolab](http://www.iecolab.es/). [Aquí](https://fjbonet.blogspot.com/2019/11/cambio-de-pantalla.html) hay algún detalle más. Reconozco que aún me cuesta ver esta etapa con desapego. Estoy en ello ;)
+
 Sigo ligado a la UGR gracias al [máster de conservación, gestión y restauración de la biodiversidad](https://masteres.ugr.es/biodiversidad/). En él soy responsable de esta asignatura que impartimos desde 2010...:
 
 + Ciclo de gestión del dato. Ecoinformática.
