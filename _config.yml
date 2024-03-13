@@ -3,3 +3,12 @@ remote_theme: pages-themes/dinky@v0.2.0
 
 title: Aprendiendo cosas. Un repositorio de docencia.
 description: Un sitio donde hacer público el material docente que imparto en las universidades de Granada y Córdoba
+
+social:
+  type:  fjbonet
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "@fjbonet"
+    # - "https://facebook.com/yourFacebook"
+    # - "https://instagram.com/yourProfile"
+    # - "https://www.linkedin.com/in/yourprofile"
