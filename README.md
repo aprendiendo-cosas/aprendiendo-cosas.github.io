@@ -1,10 +1,10 @@
 # Repositorio de docencia
 
-***Autor\***: Curro Bonet-García ([fjbonet@uco.es](mailto:fjbonet@uco.es), [Twitter](https://twitter.com/fjbonet), [Telegram](https://aprendiendo-cosas.github.io/t.me/fjbonet))
+**_Autor_**: Curro Bonet-García ([fjbonet@uco.es](mailto:fjbonet@uco.es), [Twitter](https://twitter.com/fjbonet), [Telegram](https://aprendiendo-cosas.github.io/t.me/fjbonet))
 
  
 
-> ***¿Qué es esto y para qué sirve? (en muy pocas palabras)\***
+> **_¿Qué es esto y para qué sirve? (en muy pocas palabras)_**
 >
 > - *Qué*: Un sitio donde hacer público el material docente que imparto en las universidades de [Granada](https://www.ugr.es/) y [Córdoba](https://www.uco.es/).
 > - *Por qué*: Creo que es más divertido ser transparente, también en la docencia
