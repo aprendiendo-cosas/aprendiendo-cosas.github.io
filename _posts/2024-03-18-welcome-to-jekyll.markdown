@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO"
+title:  "Material del curso 2022-2023"
 date:   2024-03-20 10:22:00 +0100
 categories: contenidos ecología
 ---
+# Relación de contenidos de la asignatura de **ecología** del grado de Ciencias Ambientales en la UCO
 
 ### Curso 2022-2023
 
