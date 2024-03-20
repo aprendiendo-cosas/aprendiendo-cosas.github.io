@@ -4,6 +4,9 @@
 - [Guía de inicio rápido para github pages](https://docs.github.com/es/pages/quickstart)
 - [La guía para principiantes rápida de Git y Github](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
 
+## Instalación
+- [Instalar Gems, Jekyll, bundle...](https://jekyllrb.com/docs/installation/windows/)
+
 ## Temas
 - [Temas soportados (oficial)](https://pages.github.com/themes/)
 - [Temas de Jekyll no oficiales](https://github.com/topics/jekyll-theme)
