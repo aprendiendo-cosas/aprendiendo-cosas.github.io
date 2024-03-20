@@ -32,7 +32,7 @@ github_username:  fjbonet
 theme: cayman
 # remote_theme: pages-themes/architect@0.2.0
 plugins:
-  - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
