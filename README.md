@@ -8,7 +8,10 @@
 - [Instalar Gems, Jekyll, bundle...](https://jekyllrb.com/docs/installation/windows/)
 
 ## Temas
+- [Instalar Jekyll en Windows](https://jekyllrb.com/docs/installation/windows/)
 - [Temas soportados (oficial)](https://pages.github.com/themes/)
 - [Temas de Jekyll no oficiales](https://github.com/topics/jekyll-theme)
 - [Agregar un tema a tu sitio de Páginas de GitHub con Jekyll](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
 - [Minimal mistakes](https://github.com/mmistakes/minimal-mistakes)
+  - [Quick start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+  - [Configuración](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
