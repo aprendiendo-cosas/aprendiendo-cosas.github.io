@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Curro Bonet García"
-  avatar           : "assets/images/curroTed.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/curroTed.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Llevo desde 2018 trabajando aquí."
   location         : "Miskatonic University"
   email            :
