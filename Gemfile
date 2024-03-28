@@ -20,6 +20,13 @@ gem "minimal-mistakes-jekyll"
 # Para actualizar automátiamente el tema
 # gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes".
 
+# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
+# and associated library.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", "~> 1.2"
+  gem "tzinfo-data"
+end
+
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
 #   gem "jekyll-sitemap"
