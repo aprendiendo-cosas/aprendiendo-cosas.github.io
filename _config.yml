@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : Un repositorio de material docente # site tagline that appears below site title in masthead
 name                     : "Curro Bonet García"
 description              : "Un sitio donde hacer público el material docente que se imparte en la Universidad de Córdoba."
-url                      : "https://viskovitz.gitghb.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://viskovitz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "viskovitz/aprendiendo-cosas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/teaser_500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
