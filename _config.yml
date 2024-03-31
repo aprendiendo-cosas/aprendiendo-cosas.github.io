@@ -24,8 +24,8 @@ description              : "Un sitio donde hacer público el material docente qu
 url                      : "https://viskovitz.gitghb.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "viskovitz/aprendiendo-cosas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/teaser_500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/aprendiendo-cosas_160x160.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/assets/teaser_500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/aprendiendo-cosas_160x160.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -109,14 +109,14 @@ analytics:
 # Site Author
 author:
   name             : "Curro Bonet García"
-  avatar           : "/assets/images/curroTed.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/curroTed.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Llevo desde 2018 trabajando aquí."
   location         : "Miskatonic University"
-  email            :
+  email            : "fjbonet@uco.es"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fjbonet@uco.es"
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: "mailto:fjbonet@uco.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fjbonet.blogspot.com/"
