@@ -92,3 +92,8 @@ No he encontrado la cuenta de Linkedin pero no sé si es importante.
 Configuración general para los nuevos posts. Se puede sobreescribir en cada post individualmente.
 
 ### [Plugins](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#plugins)
+
+### [Autores](https://mmistakes.github.io/minimal-mistakes/docs/authors/
+¿Va a haber varios autores?
+
+### [Posts](https://mmistakes.github.io/minimal-mistakes/docs/posts/)
