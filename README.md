@@ -15,6 +15,7 @@
 - [Minimal mistakes](https://github.com/mmistakes/minimal-mistakes)
   - [Quick start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
   - [Configuración](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+  - Quizás haya que copiar el sitio entero desde el directorio docs [de aquí](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)... **haciendo una copia de seguridad de lo que llevo hecho hasta ahora**
 
 ## Dudas configuración
 
