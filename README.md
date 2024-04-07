@@ -30,6 +30,7 @@
   - utterances
   - giscus
   - Otro
+- Añadir un enlace en la columna de la izquierda para escribir comentarios
 
 ### [Moderación de comentarios](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comment-moderation)
 
