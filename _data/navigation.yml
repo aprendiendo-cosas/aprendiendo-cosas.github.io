@@ -7,6 +7,8 @@ main:
   - title: "Acerca de"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
     url: /about/
+#  - title: "Páginas"
+#    url: /page-archive/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
