@@ -3,10 +3,11 @@ layout: splash
 permalink: /
 hidden: true
 header:
+  teaser: /assets/teaser_500x300.png
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/teaser_500x300.png
   actions:
-    - label: "<i class='fas fa-download'></i> Enlace a página interna dentro del proyecto "
+    - label: "<i class='fas fa-download'></i> Enlace a página interna dentro del proyecto (si es necesario)"
       url: "/terms/"
 excerpt: >
   Un sitio donde hacer público el material docente que se imparte en la Universidad de Córdoba.<br />
@@ -37,11 +38,11 @@ feature_row:
 
 > **¿Qué es esto y para qué sirve? (en muy pocas palabras)**
 >
-> - *Qué*: Un sitio donde hacer público el material docente que imparto en las universidades de [Granada](https://www.ugr.es/) y [Córdoba](https://www.uco.es/).
+> - *Qué*: Un sitio donde hacer público el material docente que imparto en las universidades de [Granada](https://www.ugr.es/){:target="_blank"} y [Córdoba](https://www.uco.es/){:target="_blank"}.
 > - *Por qué*: Creo que es más divertido ser transparente, también en la docencia
 > - *Para quién*: Para estudiantes, compañeros y para mí :)
-> - *Cómo*: Todo lo que ves aquí se basa en [Github](https://github.com/) y en los conceptos de reproducibilidad y trazabilidad. Esta herramienta me permite saber cómo cambia mi docencia con el tiempo.
-> - *Si te has quedado con ganas de leer más*: En breve escribiré sobre esto en mi blog. Mientras tanto puedes ver [este](https://www.youtube.com/watch?v=1plRdolo4Ys) vídeo que explica un poco las tripas de la idea.
+> - *Cómo*: Todo lo que ves aquí se basa en [Github](https://github.com/){:target="_blank"} y en los conceptos de reproducibilidad y trazabilidad. Esta herramienta me permite saber cómo cambia mi docencia con el tiempo.
+> - *Si te has quedado con ganas de leer más*: En breve escribiré sobre esto en mi blog. Mientras tanto puedes ver [este](https://www.youtube.com/watch?v=1plRdolo4Ys){:target="_blank"} vídeo que explica un poco las tripas de la idea.
 
 ## Universidad de Córdoba
 
@@ -49,7 +50,7 @@ Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual  paracaidista grac
 
 - Grado de biología. Hasta ahora mi implicación docente en este  grado es reducida. Solo he impartido algunas prácticas en las siguientes asignaturas.    
 
-  - [Ecología I](/_pages/ecologia1/): Se imparte en el primer cuatrimestre de tercer curso.
+  - [Ecología I](/ecologia1/): Se imparte en el primer cuatrimestre de tercer curso.
   - [Ecología II](https://aprendiendo-cosas.github.io/eco_II_bio_uco/eco_II_uco.html): Se imparte en el segundo cuatrimestre de tercer curso.
   - Ecología aplicada: Es una optativa del cuarto curso de biología.
 

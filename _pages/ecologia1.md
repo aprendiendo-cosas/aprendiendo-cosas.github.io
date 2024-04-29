@@ -1,11 +1,11 @@
 ---
-layout: splash
+title: "Material de la asignatura de Ecología I en Biología."
 permalink: /ecologia1/
+layout: splash
 hidden: true
-title: "Material de la asignatura de "Ecología I" en Biología.
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/teaser_500x300.png
   actions:
     - label: "<i class='fas fa-download'></i> Enlace a página interna dentro del proyecto "
       url: "/terms/"

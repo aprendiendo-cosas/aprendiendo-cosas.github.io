@@ -15,9 +15,12 @@
 - [Minimal mistakes](https://github.com/mmistakes/minimal-mistakes)
   - [Quick start guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
   - [Configuración](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+  - [Minimal Mistakes Cheat Sheet](https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/)
   - Quizás haya que copiar el sitio entero desde el directorio docs [de aquí](https://github.com/mmistakes/minimal-mistakes/tree/master/docs)... **haciendo una copia de seguridad de lo que llevo hecho hasta ahora**
 
 ## Dudas configuración
+
+Compilar la página: **bundle exec jekyll serve**
 
 ### [Comentarios](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments)
 
