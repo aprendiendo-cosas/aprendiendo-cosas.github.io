@@ -1,5 +1,6 @@
 ---
-layout: splash
+layout: home
+author_profile: true
 permalink: /
 hidden: true
 header:
@@ -56,16 +57,9 @@ Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual  paracaidista grac
 
 - Grado de ciencias ambientales. La mayor parte de mi docencia está centrada en esta titulación.    
 
-  - [Ecología](https://aprendiendo-cosas.github.io/ecologia_CCAA_UCO/ecologia_ccaa_uco.html): Se imparte en el segundo cuatrimestre del segundo curso.
+  - [Ecología](/ecologia/): Se imparte en el segundo cuatrimestre del segundo curso.
 
-- Máster Geoforest
-
-  . Se trata de un máster promovido por 
-
-  ERSAF
-
-   que combina el conocimiento forestal con las técnicas de manejo de información.    
-
+- [Máster Geoforest](https://mastergeoforest.es/). Se trata de un máster promovido por ERSAF que combina el conocimiento forestal con las técnicas de manejo de información.
   - Sistemas de información geográfica y ecología espacial. Aplicaciones.
 
 ## Universidad de Granada

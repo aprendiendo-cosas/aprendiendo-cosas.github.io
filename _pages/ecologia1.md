@@ -1,7 +1,8 @@
 ---
-title: "Material de la asignatura de Ecología I en Biología."
 permalink: /ecologia1/
-layout: splash
+layout: single
+title: "Contenido de la asignatura de Ecología 1 en el grado de Biología de la UCO."
+author_profile: true
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -17,14 +18,8 @@ last_modified_at: 2024-04-22T19:54:38-04:00
 
 # Material de la asignatura de "ecología I" en Biología. 
 
-### Universidad de Córdoba 
+### Universidad de Córdoba
 
- 
+Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](/). En esta página se muestra el material que utilizamos en la docencia de ecología en el grado de ambientales de la Universidad de Córdoba. Abajo puedes ver un enlace para cada curso académico. Espero que te resulte de utilidad. Si quieres decirme algo sobre este material (o sobre lo que quieras), escríbeme un correo ([fjbonet@uco.es](mailto:fjbonet@uco.es)), un [Tweet](https://twitter.com/fjbonet) o un menesaje de [Telegram](https://aprendiendo-cosas.github.io/eco_I_bio_uco/t.me/fjbonet)). 
 
-Si has llegado a esta web sin contexto alguno, quizás te apetezca leer [esto](https://aprendiendo-cosas.github.io/). En esta página se muestra el material que utilizamos en la docencia de ecología en el grado de ambientales de la Universidad de Córdoba. Abajo puedes ver un enlace para cada curso académico. Espero que te resulte de utilidad. Si quieres decirme algo sobre este material (o sobre lo que quieras), escríbeme un correo ([fjbonet@uco.es](mailto:fjbonet@uco.es)), un [Tweet](https://twitter.com/fjbonet) o un menesaje de [Telegram](https://aprendiendo-cosas.github.io/eco_I_bio_uco/t.me/fjbonet)). 
-
- 
-
- 
-
-- **[Material del curso 2020-2021](https://aprendiendo-cosas.github.io/eco_I_bio_uco/contenidos_ecologia_I_bio_2020-2021.html)** En este curso solo impartí dos prácticas. Una sobre distribución de biomas y otra sobre cartografía de la biodiversidad. Creo que ambas fueron bien. En el enlace anterior puedes acceder a todo el material.
+- **[Material del curso 2020-2021]({% post_url 2021-06-15-material-ecologia-1 %})** En este curso solo impartí dos prácticas. Una sobre distribución de biomas y otra sobre cartografía de la biodiversidad. Creo que ambas fueron bien. En el enlace anterior puedes acceder a todo el material.
