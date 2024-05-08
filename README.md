@@ -1,3 +1,6 @@
+## Cosas que hacer
+- A partir de enlaces a asignaturas en la página de inicio, cuando se pinche en alguno de ellos que aparezcan solo las cosas de esa asignatura ordenadas cronológicamente en la siguiente página
+
 ## Páginas generales
 - [Acerca de las Páginas de GitHub y Jekyll (también temas)](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 - [Crear un sitio de páginas de Github con Jekyll](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll)
