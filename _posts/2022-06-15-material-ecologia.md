@@ -1,6 +1,8 @@
 ---
 layout: single
-author_profile: true
+#author_profile: true
+categories:
+  - Ecología Ciencias Ambientales
 title:  "Relación de contenidos de la asignatura de Ecología del grado de ciencias Ambienales en la UCO (2021 - 2022)"
 header:
   overlay_color: "#5e616c"

@@ -1,6 +1,6 @@
 ---
 title: "Contenido de la asignatura de Ecología en Ciencias Ambientales."
-permalink: /ecologia/
+permalink: /ecologia-ca/
 layout: single
 author_profile: true
 hidden: true
