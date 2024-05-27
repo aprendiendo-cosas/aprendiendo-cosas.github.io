@@ -6,11 +6,13 @@ categories:
 title:  "Relación de contenidos de la asignatura de Ecología del grado de ciencias Ambienales en la UCO (2020 - 2021)"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/portada_2020_2021.jpg
+  #overlay_image: /assets/portada_2020_2021.jpg
 excerpt: >
 ---
 
 ### Curso 2020-2021
+
+![](https://github.com/aprendiendo-cosas/ecologia_CCAA_UCO/raw/master/imagenes/portada_2020_2021.jpg)
 
 En esta página tienes acceso a todo el material con el que hemos trabajado durante el curso. 
 

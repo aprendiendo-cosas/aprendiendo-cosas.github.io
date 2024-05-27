@@ -1,5 +1,6 @@
 ## Cosas que hacer
 - A partir de enlaces a asignaturas en la página de inicio, cuando se pinche en alguno de ellos que aparezcan solo las cosas de esa asignatura ordenadas cronológicamente en la siguiente página
+- La búsqueda debe encontrar todos los markdown que tengan la cadena de búsqueda más la palabra guion dentro y además los archivos binarios que se llaman como la cadena de búsqueda
 
 ## Páginas generales
 - [Acerca de las Páginas de GitHub y Jekyll (también temas)](https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
