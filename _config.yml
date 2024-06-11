@@ -74,7 +74,7 @@ google:
   search_engine_id       : 54cd36bc15b6847f7 # YOUR_SEARCH_ENGINE_ID
   instant_search         : true # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : -dC2Egg_uePCzEfFIblGDuXUYZLSsvWnmhXCrcHNreg
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
