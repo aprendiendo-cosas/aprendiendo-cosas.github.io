@@ -18,6 +18,6 @@ toc: true
 
 ## Acerca de
 
-Aquí puede ir información de Curro o el repositorio. Con formato markdown.
+Aquí puede ir información del repositorio o de Curro. Con formato markdown.
 
 Ejemplos para el formato en el documento original del minimal mistakes en el directorio _pages del github original
