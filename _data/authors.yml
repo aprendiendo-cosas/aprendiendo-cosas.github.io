@@ -3,6 +3,7 @@
 Curro Bonet:
   name        : "Francisco Javier Bonet García"
   bio         : "Doy clase aquí."
+  location         : "Universidad de Córdoba"
   avatar      : "/assets/curroTed.jpg"
   links:
     - label: "Email"

@@ -1,6 +1,6 @@
 ---
 layout: single
-author: Raúl Casado
+author: Raul Casado
 #author_profile: true
 categories:
   - Ecología Ciencias Ambientales
