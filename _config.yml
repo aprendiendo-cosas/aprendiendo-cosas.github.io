@@ -112,7 +112,7 @@ author:
   name             : "Curro Bonet García"
   avatar           : "/assets/curroTed.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Llevo desde 2018 trabajando aquí."
-  location         : "Miskatonic University"
+  location         : "Universidad de Córdoba"
   email            : "fjbonet@uco.es"
   links:
 #    - label: "Email"
@@ -120,7 +120,7 @@ author:
 #      url: "mailto:fjbonet@uco.es"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://fjbonet.blogspot.com/"
+      url: "https://fjbonet.blogspot.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/fjbonet"
