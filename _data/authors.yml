@@ -2,7 +2,7 @@
 
 Curro Bonet:
   name        : "Francisco Javier Bonet García"
-  bio         : "Doy clase aquí. Me gustan Los Pecos."
+  bio         : "Doy clase aquí."
   avatar      : "/assets/curroTed.jpg"
   links:
     - label: "Email"
@@ -24,7 +24,7 @@ Curro Bonet:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/fjbonet"
 
-Raúl Casado:
+Raul Casado:
   name        : "Raúl Casado Barbero"
   bio         : "Hago cosas"
   avatar      : "/assets/raulNaranja.jpg"
