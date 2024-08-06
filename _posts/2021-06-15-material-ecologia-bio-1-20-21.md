@@ -2,13 +2,15 @@
 layout: single
 #author_profile: true
 categories:
-  - Ecología Biología
+  - Ecología Biología I
 title:  "Relación de contenidos de la asignatura de Ecología I del grado de Biología en la UCO"
 ---
 
-### Curso 2020-2021
+# Relación de contenidos de la asignatura de **ecología** I del grado de Biología en la UCO.
 
+### Curso 2020-2021
 En esta página tienes acceso a todo el material que he impartido en el curso académico mencionado más arriba. Si llegas a esta página sin contexto, quizás te apetezca leer [esto](https://aprendiendo-cosas.github.io/).
+
 Como verás, mi contribución a la asignatura se limita a dos prácticas:
 
 ## *Secuencia de temas abordados* 
@@ -22,5 +24,9 @@ Como verás, mi contribución a la asignatura se limita a dos prácticas:
 
 - **Práctica: Creación de un mapa de biodiversidad y caracterización de patrones de cambio a distintas escalas** (OJO, ESTA PRÁCTICA AÚN ESTÁ INCOMPLETA)
   - [Guión dinámico](https://rawcdn.githack.com/aprendiendo-cosas/P_Shannon_ecologia_I_bio). 
-  - [Descargar material](https://aprendiendo-cosas.github.io/eco_I_bio_uco/contenidos_ecologia_I_bio_2020-2021.zip?Download=1)
+  - [Descargar material](https://aprendiendo-cosas.github.io/eco_I_bio_uco/contenidos_ecologia_I_bio_2020-2021.html)
   - [Ver material en Github](https://github.com/aprendiendo-cosas/P_Shannon_ecologia_I_bio/tree/2020-2021)
+
+------
+
+ 

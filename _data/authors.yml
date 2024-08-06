@@ -1,6 +1,6 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/authors/
 
-Curro Bonet:
+CurroBonet:
   name        : "Francisco Javier Bonet García"
   bio         : "Doy clase aquí."
   location         : "Universidad de Córdoba"
@@ -25,7 +25,7 @@ Curro Bonet:
       icon: "fab fa-fw fa-telegram"
       url: "https://t.me/fjbonet"
 
-Raul Casado:
+RaulCasado:
   name        : "Raúl Casado Barbero"
   bio         : "Hago cosas"
   avatar      : "/assets/raulNaranja.jpg"

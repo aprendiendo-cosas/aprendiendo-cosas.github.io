@@ -51,13 +51,13 @@ Llevo desde 2018 trabajando aquí. Aterricé en Córdoba cual  paracaidista grac
 
 - Grado de biología. Hasta ahora mi implicación docente en este  grado es reducida. Solo he impartido algunas prácticas en las siguientes asignaturas.    
 
-  - [Ecología I](/categories/ecologia-ciencias-ambientales/): Se imparte en el primer cuatrimestre de tercer curso.
-  - [Ecología II](https://aprendiendo-cosas.github.io/eco_II_bio_uco/eco_II_uco.html): Se imparte en el segundo cuatrimestre de tercer curso.
+  - [Ecología I](/categories/ecologia-biologia-1/): Se imparte en el primer cuatrimestre de tercer curso.
+  - [Ecología II](/categories/ecologia-biologia-2/): Se imparte en el segundo cuatrimestre de tercer curso.
   - Ecología aplicada: Es una optativa del cuarto curso de biología.
 
 - Grado de ciencias ambientales. La mayor parte de mi docencia está centrada en esta titulación.    
 
-  - [Ecología](/categories/ecologia-biologia/): Se imparte en el segundo cuatrimestre del segundo curso.
+  - [Ecología](/categories/ecologia-ciencias-ambientales/): Se imparte en el segundo cuatrimestre del segundo curso.
 
 - [Máster Geoforest](https://mastergeoforest.es/). Se trata de un máster promovido por ERSAF que combina el conocimiento forestal con las técnicas de manejo de información.
   - Sistemas de información geográfica y ecología espacial. Aplicaciones.
