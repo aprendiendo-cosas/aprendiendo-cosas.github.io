@@ -1,30 +1,5 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/authors/
 
-CurroBonet:
-  name        : "Francisco Javier Bonet García"
-  bio         : "Doy clase aquí."
-  location         : "Universidad de Córdoba"
-  avatar      : "/assets/curroTed.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:fjbonet@uco.es"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://fjbonet.blogspot.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/fjbonet"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/fjbonet"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/fjbonet"
-    - label: "Telegram"
-      icon: "fab fa-fw fa-telegram"
-      url: "https://t.me/fjbonet"
-
 RaulCasado:
   name        : "Raúl Casado Barbero"
   bio         : "Hago cosas"
@@ -36,3 +11,4 @@ RaulCasado:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/raul_casbar"
+
