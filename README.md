@@ -38,7 +38,7 @@ Este archivo configura los menús de navegación que aparecen en la parte superi
 
 Se puede modificar comentando y descomentando lo que ya hay en el archivo y asegurándose de que existe el archivo al que apunta cada sección.
 
-#### authors.yml
+### authors.yml
 
 Aquí van los datos de la gente que va a añadir información al repositorio para que puedan aparecer en las páginas que suben.
 
