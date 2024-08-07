@@ -1,4 +1,4 @@
-# Instrucciones de _Aprendiendo cosas_
+# Aprendiendo a usar _Aprendiendo cosas_
 
 ## Estructura del repositorio
 
