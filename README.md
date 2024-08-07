@@ -169,7 +169,7 @@ La etiqueta `author` se puede eliminar si el autor de la página es el configura
 
 En `categories` se deben incluir todas las categorías donde se engloba la asignatura, pero al menos una de ellas debe ser igual que la configurada en una de las páginas que filtran por asignatura.
 
-En este ejemplo una de las categorías es _Ecología Ciencias Ambientales_, que es la categoría que aparece en la etiqueta taxonomía del ejemplo de página de filtrado de asignatura usado más [arriba](/README.md#asignaturas).
+En este ejemplo una de las categorías es _Ecología Ciencias Ambientales_, que es la categoría que aparece en la etiqueta taxonomía del [ejemplo de página de filtrado](/README.md#asignaturas) de asignatura usado más arriba.
 
 ## assets
 
