@@ -1,7 +1,5 @@
 # Instrucciones de _Aprendiendo cosas_
 
-[TOC]
-
 ## Estructura del repositorio
 
 De todos los directorios que hay en el repositorio solo hay que tener en cuenta para editar la web:
