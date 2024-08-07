@@ -18,11 +18,13 @@ Voy a ir describiendo los archivos que se deben modificar en cada directorio par
 
 ## root
 
-Aquí "solo" hay que editar el archivo `_config.yml`, que es donde se establece la configuración de todo el sitio en general.
+Aquí solo hay que editar el archivo `_config.yml`, que es donde se establece la configuración global del sitio.
 
-[En la página de configuración de Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) se describe todo lo que se puede cambiar en `_config.yml`. Lo dejo aquí mientras voy viendo como explicarlo todo en este documento.
+Todas las etiquetas del archivo están comentadas para saber para que se utilizan y en la [página de configuración de Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) se describe todo lo que se puede cambiar en `_config.yml`.
 
-Del resto de archivos que hay en la raíz solo se deberían modificar a mano `README.md` y `NOTAS.md`. El resto de archivos los modifica Jekyll cuando es necesario.
+Del resto de archivos que hay en la raíz solo se deberían modificar a mano `README.md` y `NOTAS.md`.
+
+**El resto de archivos los modifica Jekyll cuando es necesario.**
 
 ## _data
 
