@@ -4,9 +4,9 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Artículos"
     url: /year-archive/
-  - title: "Acerca de"
+#  - title: "Acerca de"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-    url: /about/
+#    url: /about/
 #  - title: "Páginas"
 #    url: /page-archive/
   # - title: "Sample Posts"
