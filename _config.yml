@@ -19,9 +19,9 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 locale                   : "es-ES"
 title                    : "Aprendiendo cosas"
 title_separator          : "-"
-subtitle                 : Un repositorio de material docente # site tagline that appears below site title in masthead
+subtitle                 : Un repositorio público de material docente # site tagline that appears below site title in masthead
 name                     : "Curro Bonet García" # El nombre que aparece en la parte inferior junto a (c)
-description              : "Un sitio donde hacer público el material docente que se imparte en la Universidad de Córdoba."
+description              : "Un lugar donde almacenar y hacer público material docente"
 url                      : "https://fjbonet.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/aprendiendo-cosas" # the subpath of your site, e.g. "/blog"
 repository               : "fjbonet/aprendiendo-cosas" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Curro Bonet García"
   avatar           : "/assets/curroTed.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Llevo desde 2018 trabajando aquí."
+  bio              : "Tocando las bowlins desde 000000"
   location         : "Universidad de Córdoba"
   email            : "fjbonet@uco.es"
   links:

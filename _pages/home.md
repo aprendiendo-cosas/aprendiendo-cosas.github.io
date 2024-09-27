@@ -8,11 +8,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/teaser_500x300.png
   actions:
-    - label: "<i class='fas fa-download'></i> Enlace a página interna dentro del proyecto (si es necesario)"
-      url: "/terms/"
+    
 excerpt: >
   Un sitio donde hacer público el material docente que se imparte en la Universidad de Córdoba.<br />
-  <small><a href="http://www.uco.es/">Enlace si es necesario</a></small>
+  <small><a href="http://www.uco.es/"></a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -69,3 +68,10 @@ Estudié en esta universidad y trabajé en ella desde 2006 hasta 2018.  Aquí se
 Sigo ligado a la UGR gracias al [máster de conservación, gestión y restauración de la biodiversidad](https://masteres.ugr.es/biodiversidad/). En él soy responsable de esta asignatura que impartimos desde 2010…:
 
 - Ciclo de gestión del dato. Ecoinformática.
+
+
+
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
