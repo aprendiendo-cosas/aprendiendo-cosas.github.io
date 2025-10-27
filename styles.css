@@ -160,11 +160,11 @@ input::placeholder {
     transition: all 0.2s;
 }
 
-.mdc-checkbox-label:hover input ~ .checkmark {
+.mdc-checkbox-label:hover input~.checkmark {
     border-color: #42a5f5;
 }
 
-.mdc-checkbox-label input:checked ~ .checkmark {
+.mdc-checkbox-label input:checked~.checkmark {
     background-color: #42a5f5;
     border-color: #42a5f5;
 }
@@ -182,7 +182,7 @@ input::placeholder {
     transform: rotate(45deg);
 }
 
-.mdc-checkbox-label input:checked ~ .checkmark:after {
+.mdc-checkbox-label input:checked~.checkmark:after {
     display: block;
 }
 
@@ -207,12 +207,24 @@ input::placeholder {
 }
 
 @keyframes spin {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 .hidden {
     display: none;
+}
+
+.section-title {
+    margin: 32px 0 8px 12px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #7c4dff;
 }
 
 .results {
@@ -297,38 +309,48 @@ input::placeholder {
     text-decoration: underline;
 }
 
+.related-subjects {
+    margin-top: 12px;
+    font-size: 14px;
+}
+
 @media (max-width: 768px) {
     .app-bar {
         padding: 16px;
     }
-    
+
     h1 {
         font-size: 18px;
     }
-    
+
     .search-card {
         margin: 16px 8px;
         padding: 16px;
     }
-    
+
     .search-container {
         flex-direction: column;
     }
-    
+
     .input-field {
         width: 100%;
     }
-    
+
     .mdc-button {
         width: 100%;
         justify-content: center;
     }
-    
+
     .repo-card {
         padding: 16px;
     }
-    
+
     .results {
         padding: 0 8px 16px;
+    }
+
+    .section-title {
+        margin: 24px 0 8px 4px;
+        font-size: 16px;
     }
 }
